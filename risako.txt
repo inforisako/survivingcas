@@ -1,3 +1,4 @@
 Risako feature: first change.
 Risako feature: second change.
 Risako has added a new development update.
+Risako is practising a feature branch rebase.
